@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**MoonlightMisfit/MoonlightMisfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello visitors! ✍(◔◡◔)
+## I'm a 20 year old IT student who's determined to expand her teck stack!
+### My goal is to dabble in different languages to fill up my TECH BOARD.
+### [x] HTML
+### [x] CSS
+### [x] JAVA
+### [ ] JAVASCRIPT
+### [ ] TAILWIND
+### [x] BOOTSTRAP
+### [ ] REACT
+### [x] SQL
+### [ ] C*
+### [ ] C++
+### [ ] RUST
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach out through my socials!
