@@ -7,7 +7,7 @@
 #### [x] HTML
 #### [x] CSS
 #### [x] JAVA
-#### [ ] JAVASCRIPT
+#### [x] JAVASCRIPT
 #### [ ] TAILWIND
 #### [x] BOOTSTRAP
 #### [ ] REACT
